@@ -4,4 +4,6 @@ import '../scss/app.scss';
 
 (function start() {
     console.info('application started');
+
+
 }())
